@@ -1,4 +1,4 @@
-# The-Daily-Grind---HTML-CSS
+# The-Daily-Grind HTML & CSS PRACTICAL SKILLS
 First lab project showing practical skills I'd learnt in HTML and CSS after approximately 4 weeks.
 Project requirments are outlined in REQUIREMENTS.MD
 
